@@ -1,0 +1,95 @@
+湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
+湖南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=2
+湖南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=2
+湖南卫视,http://39.134.168.76/PLTV/1/224/3221225518/index.m3u8
+湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
+湖南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
+
+浙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
+浙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=2
+浙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=2
+浙江卫视,http://39.134.168.76/PLTV/1/224/3221225522/index.m3u8
+浙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8
+浙江卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226040/10000100000000060000000002296881_0.smil
+
+东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+东方卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=2
+东方卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=2
+东方卫视,http://39.134.168.76/PLTV/1/224/3221225506/index.m3u8
+东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225936/index.m3u8
+东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8
+东方卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil
+
+江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
+江苏卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=2
+江苏卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=2
+江苏卫视,http://39.134.168.76/PLTV/1/224/3221225514/index.m3u8
+江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/index.m3u8
+
+CCTV-1 综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+CCTV-1 综合,http://39.134.168.76/PLTV/1/224/3221225510/index.m3u8
+CCTV-1 综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
+CCTV-1 综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-1 综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+
+CCTV-3 综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-3 综艺,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+
+CCTV-8 电视剧,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
+CCTV-8 电视剧,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
+
+CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV15 音乐,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
+CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
+
+超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=2
+超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=2
+超级综艺,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+金牌综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
+金牌综艺,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
+
+家庭剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
+潮妈辣婆,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
+爱情喜剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=2
+精品大剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
+古装剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
+古装剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
+动作电影,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
+明星大片,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=2
+明星大片,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
+
+超级电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=2
+超级电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=2
+超级电影,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
+超级电影,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
+
+超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=2
+超级电视剧,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
+
+影视1 7M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+影视6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+周末影院,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
+动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
+
+连续剧,#genre#
+第01集,https://youku.cdn4-okzy.com/20210129/13573_1e69fd7b/index.m3u8
+第02集,https://youku.cdn4-okzy.com/20210129/13574_13fbd6ad/index.m3u8
+第03集,https://youku.cdn4-okzy.com/20210129/13575_ce5da451/index.m3u8
+第04集,https://youku.cdn4-okzy.com/20210129/13576_2b0ba040/index.m3u8
+第05集,https://youku.cdn4-okzy.com/20210129/13577_6f79dae9/index.m3u8
+第06集,https://youku.cdn4-okzy.com/20210129/13578_84c1dd0d/index.m3u8
+第07集,https://youku.cdn4-okzy.com/20210129/13579_3e89a466/index.m3u8
+第08集,https://youku.cdn4-okzy.com/20210129/13580_4ce1654b/index.m3u8
+第09集,https://youku.cdn4-okzy.com/20210130/13603_90b855e7/index.m3u8
+第10集,https://youku.cdn4-okzy.com/20210130/13604_1fe84e38/index.m3u8
+第11集,https://youku.cdn4-okzy.com/20210131/13623_69f52c3e/index.m3u8
+第12集,https://youku.cdn4-okzy.com/20210131/13622_1fc01725/index.m3u8
+第13集,https://youku.cdn4-okzy.com/20210204/13706_98bf720c/index.m3u8
+第14集,https://youku.cdn4-okzy.com/20210204/13707_9043f050/index.m3u8
+第15集,https://youku.cdn4-okzy.com/20210205/13721_1f1fffba/index.m3u8
+第16集,https://youku.cdn4-okzy.com/20210205/13722_83275624/index.m3u8
+第17集,https://youku.cdn4-okzy.com/20210206/13747_0f97bd37/index.m3u8
+第18集,https://youku.cdn4-okzy.com/20210206/13748_fb1e5e16/index.m3u8
