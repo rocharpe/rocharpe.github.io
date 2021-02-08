@@ -74,7 +74,6 @@ CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 周末影院,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
 动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
 
-连续剧,#genre#
 玲珑,#genre#
 第01集,https://youku.cdn4-okzy.com/20210129/13573_1e69fd7b/index.m3u8
 第02集,https://youku.cdn4-okzy.com/20210129/13574_13fbd6ad/index.m3u8
@@ -95,7 +94,7 @@ CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 第17集,https://youku.cdn4-okzy.com/20210206/13747_0f97bd37/index.m3u8
 第18集,https://youku.cdn4-okzy.com/20210206/13748_fb1e5e16/index.m3u8
 
-风起霓裳DVD版,#genre#
+风起霓裳,#genre#
 第01集,https://youku.cdn4-okzy.com/20210127/13512_7fd38fd2/index.m3u8
 第02集,https://youku.cdn4-okzy.com/20210128/13563_cd9d60cd/index.m3u8
 第03集,https://youku.cdn4-okzy.com/20210128/13564_650abcb7/index.m3u8
