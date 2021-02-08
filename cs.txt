@@ -1,4 +1,4 @@
-上海新闻综合,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上视新闻频道,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 
 湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
 湖南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=2
@@ -28,24 +28,24 @@
 江苏卫视,http://39.134.168.76/PLTV/1/224/3221225514/index.m3u8
 江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/index.m3u8
 
-CCTV-1 综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
-CCTV-1 综合,http://39.134.168.76/PLTV/1/224/3221225510/index.m3u8
-CCTV-1 综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
-CCTV-1 综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-1 综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+CCTV1,http://39.134.168.76/PLTV/1/224/3221225510/index.m3u8
+CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
+CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 
-CCTV-3 综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-CCTV-3 综艺,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV3,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
 
-CCTV-8 电视剧,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
-CCTV-8 电视剧,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
-CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
+CCTV8,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
+CCTV8,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
 
-CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
-CCTV15 音乐,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
-CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
+CCTV15,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV15,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
+CCTV15,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
 
 超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=2
 超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=2
