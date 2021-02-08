@@ -75,6 +75,7 @@ CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
 
 连续剧,#genre#
+玲珑,#genre#
 第01集,https://youku.cdn4-okzy.com/20210129/13573_1e69fd7b/index.m3u8
 第02集,https://youku.cdn4-okzy.com/20210129/13574_13fbd6ad/index.m3u8
 第03集,https://youku.cdn4-okzy.com/20210129/13575_ce5da451/index.m3u8
@@ -93,3 +94,22 @@ CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 第16集,https://youku.cdn4-okzy.com/20210205/13722_83275624/index.m3u8
 第17集,https://youku.cdn4-okzy.com/20210206/13747_0f97bd37/index.m3u8
 第18集,https://youku.cdn4-okzy.com/20210206/13748_fb1e5e16/index.m3u8
+
+风起霓裳DVD版,#genre#
+第01集,https://youku.cdn4-okzy.com/20210127/13512_7fd38fd2/index.m3u8
+第02集,https://youku.cdn4-okzy.com/20210128/13563_cd9d60cd/index.m3u8
+第03集,https://youku.cdn4-okzy.com/20210128/13564_650abcb7/index.m3u8
+第04集,https://youku.cdn4-okzy.com/20210129/13591_12dbd1a1/index.m3u8
+第05集,https://youku.cdn4-okzy.com/20210130/13607_82d76bcc/index.m3u8
+第06集,https://youku.cdn4-okzy.com/20210131/13629_5b492cda/index.m3u8
+第07集,https://youku.cdn4-okzy.com/20210131/13630_f78cf81b/index.m3u8
+第08集,https://youku.cdn4-okzy.com/20210201/13649_fa86f2dd/index.m3u8
+第09集,https://youku.cdn4-okzy.com/20210201/13650_7af2a3c4/index.m3u8
+第10集,https://youku.cdn4-okzy.com/20210202/13668_03599d48/index.m3u8
+第11集,https://youku.cdn4-okzy.com/20210202/13669_4240df60/index.m3u8
+第12集,https://youku.cdn4-okzy.com/20210203/13686_2a1f4eb5/index.m3u8
+第13集,https://youku.cdn4-okzy.com/20210203/13687_948f2ade/index.m3u8
+第14集,https://youku.cdn4-okzy.com/20210205/13726_d5d812c6/index.m3u8
+第15集,https://youku.cdn4-okzy.com/20210206/13754_8cdd6533/index.m3u8
+第16集,https://youku.cdn4-okzy.com/20210207/13771_e1333d9a/index.m3u8
+第17集,https://youku.cdn4-okzy.com/20210207/13772_1719a2e7/index.m3u8
