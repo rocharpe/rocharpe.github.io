@@ -74,6 +74,18 @@ CCTV15 音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 周末影院,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
 动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
 
+厨王争霸,#genre#
+第01集,https://youku.cdn29-okzy.com/20210110/16217_11cac575/index.m3u8
+第02集,https://youku.cdn29-okzy.com/20210110/16218_79fc1ec4/index.m3u8
+第03集,https://youku.cdn29-okzy.com/20210110/16219_eb1e0c18/index.m3u8
+第04集,https://youku.cdn29-okzy.com/20210110/16220_c356a9a0/index.m3u8
+第05集,https://youku.cdn29-okzy.com/20210110/16221_c46931f4/index.m3u8
+第06集,https://youku.cdn29-okzy.com/20210110/16222_04e8f4dd/index.m3u8
+第07集,https://youku.cdn29-okzy.com/20210110/16223_a248ca7c/index.m3u8
+第08集,https://youku.cdn29-okzy.com/20210110/16224_d32e0b21/index.m3u8
+第09集,https://youku.cdn29-okzy.com/20210110/16225_429ecf5d/index.m3u8
+第10集,https://youku.cdn29-okzy.com/20210110/16226_99b49893/index.m3u8
+
 玲珑,#genre#
 第01集,https://youku.cdn4-okzy.com/20210129/13573_1e69fd7b/index.m3u8
 第02集,https://youku.cdn4-okzy.com/20210129/13574_13fbd6ad/index.m3u8
