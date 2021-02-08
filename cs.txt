@@ -1,3 +1,4 @@
+直播,#genre#
 上视新闻频道,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 上视新闻频道,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 
