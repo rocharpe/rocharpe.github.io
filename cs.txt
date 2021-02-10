@@ -77,26 +77,17 @@ CCTV15,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/
 影视6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 周末影院,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
 动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
+陈翔六点半,http://tx2play1.douyucdn.cn/2132902rOl0PlgKw.m3u8
+【神乐】,http://tx2play1.douyucdn.cn/85894rmovieChow.m3u8
+【神乐】,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
+【武侠】,http://tx2play1.douyucdn.cn/338759rp1hriymL3.m3u8
+【华语厅】,http://tx2play1.douyucdn.cn/925724rMEweFIs2e.m3u8
+【周星驰】,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+【超清】,http://tx2play1.douyucdn.cn/4290711r58wJsHRc.m3u8
+【香港赌片】,http://tx2play1.douyucdn.cn/315457rkHZoBCIGx.m3u8
+【蓝翔】,http://tx2play1.douyucdn.cn/276200rKDX8VqOrW.m3u8
+周星驰,http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
 
-玲珑,#genre#
-第01集,https://youku.cdn4-okzy.com/20210129/13573_1e69fd7b/index.m3u8
-第02集,https://youku.cdn4-okzy.com/20210129/13574_13fbd6ad/index.m3u8
-第03集,https://youku.cdn4-okzy.com/20210129/13575_ce5da451/index.m3u8
-第04集,https://youku.cdn4-okzy.com/20210129/13576_2b0ba040/index.m3u8
-第05集,https://youku.cdn4-okzy.com/20210129/13577_6f79dae9/index.m3u8
-第06集,https://youku.cdn4-okzy.com/20210129/13578_84c1dd0d/index.m3u8
-第07集,https://youku.cdn4-okzy.com/20210129/13579_3e89a466/index.m3u8
-第08集,https://youku.cdn4-okzy.com/20210129/13580_4ce1654b/index.m3u8
-第09集,https://youku.cdn4-okzy.com/20210130/13603_90b855e7/index.m3u8
-第10集,https://youku.cdn4-okzy.com/20210130/13604_1fe84e38/index.m3u8
-第11集,https://youku.cdn4-okzy.com/20210131/13623_69f52c3e/index.m3u8
-第12集,https://youku.cdn4-okzy.com/20210131/13622_1fc01725/index.m3u8
-第13集,https://youku.cdn4-okzy.com/20210204/13706_98bf720c/index.m3u8
-第14集,https://youku.cdn4-okzy.com/20210204/13707_9043f050/index.m3u8
-第15集,https://youku.cdn4-okzy.com/20210205/13721_1f1fffba/index.m3u8
-第16集,https://youku.cdn4-okzy.com/20210205/13722_83275624/index.m3u8
-第17集,https://youku.cdn4-okzy.com/20210206/13747_0f97bd37/index.m3u8
-第18集,https://youku.cdn4-okzy.com/20210206/13748_fb1e5e16/index.m3u8
 
 风起霓裳,#genre#
 第01集,https://youku.cdn4-okzy.com/20210127/13512_7fd38fd2/index.m3u8
